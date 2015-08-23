@@ -14,6 +14,9 @@
 		9BD270321B88E0A500D5D971 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD270311B88E0A500D5D971 /* Images.xcassets */; };
 		9BD270351B88E0A500D5D971 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD270331B88E0A500D5D971 /* LaunchScreen.xib */; };
 		9BD270411B88E0A500D5D971 /* TaskADTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD270401B88E0A500D5D971 /* TaskADTTests.m */; };
+		9BD2704C1B88E6B300D5D971 /* News.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD2704B1B88E6B300D5D971 /* News.m */; };
+		9BD2704F1B8A270D00D5D971 /* NewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD2704E1B8A270D00D5D971 /* NewsCell.m */; };
+		9BD270511B8A290400D5D971 /* NewsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD270501B8A290400D5D971 /* NewsCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,11 @@
 		9BD2703A1B88E0A500D5D971 /* TaskADTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskADTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD2703F1B88E0A500D5D971 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BD270401B88E0A500D5D971 /* TaskADTTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaskADTTests.m; sourceTree = "<group>"; };
+		9BD2704A1B88E6B300D5D971 /* News.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = News.h; sourceTree = "<group>"; };
+		9BD2704B1B88E6B300D5D971 /* News.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = News.m; sourceTree = "<group>"; };
+		9BD2704D1B8A270D00D5D971 /* NewsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsCell.h; sourceTree = "<group>"; };
+		9BD2704E1B8A270D00D5D971 /* NewsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsCell.m; sourceTree = "<group>"; };
+		9BD270501B8A290400D5D971 /* NewsCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +93,12 @@
 				9BD270291B88E0A500D5D971 /* AppDelegate.m */,
 				9BD2702B1B88E0A500D5D971 /* ViewController.h */,
 				9BD2702C1B88E0A500D5D971 /* ViewController.m */,
+				9BD270501B8A290400D5D971 /* NewsCell.xib */,
+				9BD2704A1B88E6B300D5D971 /* News.h */,
+				9BD2704B1B88E6B300D5D971 /* News.m */,
 				9BD2702E1B88E0A500D5D971 /* Main.storyboard */,
+				9BD2704D1B8A270D00D5D971 /* NewsCell.h */,
+				9BD2704E1B8A270D00D5D971 /* NewsCell.m */,
 				9BD270311B88E0A500D5D971 /* Images.xcassets */,
 				9BD270331B88E0A500D5D971 /* LaunchScreen.xib */,
 				9BD270241B88E0A500D5D971 /* Supporting Files */,
@@ -201,6 +214,7 @@
 			files = (
 				9BD270301B88E0A500D5D971 /* Main.storyboard in Resources */,
 				9BD270351B88E0A500D5D971 /* LaunchScreen.xib in Resources */,
+				9BD270511B8A290400D5D971 /* NewsCell.xib in Resources */,
 				9BD270321B88E0A500D5D971 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -221,6 +235,8 @@
 			files = (
 				9BD2702D1B88E0A500D5D971 /* ViewController.m in Sources */,
 				9BD2702A1B88E0A500D5D971 /* AppDelegate.m in Sources */,
+				9BD2704C1B88E6B300D5D971 /* News.m in Sources */,
+				9BD2704F1B8A270D00D5D971 /* NewsCell.m in Sources */,
 				9BD270271B88E0A500D5D971 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
