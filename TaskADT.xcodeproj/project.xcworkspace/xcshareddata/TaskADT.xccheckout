@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69068FE8-9431-4870-934B-44AE7A3686DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TaskADT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1CD82B4E76B219E3FC79146FC1EE42AE71B9015D</key>
+		<string>https://github.com/manishreddysama/TaskADT.git</string>
+		<key>75861CCF1C5E43A5473CEB8046AA24433BEFFF17</key>
+		<string>https://github.com/manishreddysama/taskADT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TaskADT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1CD82B4E76B219E3FC79146FC1EE42AE71B9015D</key>
+		<string>../..</string>
+		<key>75861CCF1C5E43A5473CEB8046AA24433BEFFF17</key>
+		<string>../..TaskADT/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manishreddysama/TaskADT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1CD82B4E76B219E3FC79146FC1EE42AE71B9015D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1CD82B4E76B219E3FC79146FC1EE42AE71B9015D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TaskADT</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75861CCF1C5E43A5473CEB8046AA24433BEFFF17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TaskADT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
